@@ -1,0 +1,7 @@
+{
+  "name": "VisionPulse - Visual Intelligence & Inspection Platform",
+  "description": "Production-grade Computer Vision & Visual Intelligence Platform for automated inspection, anomaly detection, coordinate mapping, and operational analytics powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
